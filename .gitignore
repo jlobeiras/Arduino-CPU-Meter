@@ -5,10 +5,3 @@
 /.vs/Arduino-CPU-Meter/FileContentIndex
 /.vs/Arduino-CPU-Meter/v17
 /.vs
-/Debug/SerialCOM.tlog
-/Debug/SerialCOM.Build.CppClean.log
-*.pdb
-*.idb
-*.obj
-*.ilk
-/Debug
