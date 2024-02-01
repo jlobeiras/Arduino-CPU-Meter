@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Arduino-CPU-Meter/FileContentIndex
+/.vs/Arduino-CPU-Meter/v17
+/.vs
