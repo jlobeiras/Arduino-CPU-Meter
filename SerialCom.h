@@ -21,6 +21,6 @@ int configureSerialPort(COMPORT serialPort);
 // Send data to serial port
 int writeToSerialPort(COMPORT serialPort, const char* data);
 
-int readFromSerialPort(HANDLE serialPort, char* buffer, int bufferSize) {
+int readFromSerialPort(HANDLE serialPort, char* buffer, int bufferSize);
 
 #endif // SERIALCOM_H

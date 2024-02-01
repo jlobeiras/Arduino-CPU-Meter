@@ -44,14 +44,14 @@ std::list<std::string> execCmd(std::string cmd) {
 
 // Simple test function for echo reply to serial port
 void echo(COMPORT serialPort) {
-    char dataToSend[BUFFER_SIZE] = "";
+    char buffer[BUFFER_SIZE] = "";
     puts("Ready for commands>");
     while (1) {
-        if (!fgets(dataToSend, 100, stdin)) break;
-        if (strchr("\n\r\0", dataToSend[0])) break;
-        writeToSerialPort(serialPort, dataToSend);
+        if (!fgets(buffer, 100, stdin)) break;
+        if (strchr("\n\r\0", buffer[0])) break;
+        writeToSerialPort(serialPort, buffer);
         wait(100);
-        readFromSerialPort(serialPort);
+        readFromSerialPort(serialPort, buffer, BUFFER_SIZE);
     }
 }
 
