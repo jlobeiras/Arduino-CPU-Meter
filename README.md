@@ -13,3 +13,5 @@ Connect a 5V voltmeter to Arduino between **Pin9** and **GND**.
 See [Arduino.ino](Arduino.cpp) file for Arduino code.
 
 <img src="img/CPU_METER.jpg" width="500">
+
+[ Circuit diagram ]
