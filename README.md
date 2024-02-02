@@ -14,4 +14,4 @@ See [Arduino.ino](Arduino.cpp) file for Arduino code.
 
 <img src="img/CPU_METER.jpg" width="500">
 
-[ Circuit diagram ]
+TODO: [ Circuit diagram ]
