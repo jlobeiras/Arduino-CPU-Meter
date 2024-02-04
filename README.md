@@ -16,7 +16,7 @@ See [Arduino.ino](Arduino.cpp) file for Arduino code.
 
 [ Circuit diagram ]
 
-<img src="img/Circuito_CPUMeter.png" width="500">
+<img src="img/Circuito_CPUMeter.png" width="300">
 
 In Windows you will probably need to install the <a href="https://www.wch-ic.com/downloads/CH341SER_ZIP.html">CH340 serial chip driver</a> the first time you connect an Arduino to your computer.
 You can open the device manager to check if your Arduino is properly detected as a serial port device and also check its COM port number to use as command line argument to launch the program.
