@@ -3,7 +3,7 @@ Host and device code for external hardware CPU meter based on Arduino.
 
 <img src="img/CPU_METER.jpg" width="500">
 
-Linux GCC Makefile and Windows MSVC project files are provided.
+Linux GCC Makefile and Windows MSVC project files are included.
 Specify your serial port when launching program:
 
 <ul>
