@@ -12,7 +12,10 @@ Specify your serial port when launching program:
 </ul>
 
 Connect a 5V voltmeter to Arduino between **Pin9** and **GND**.
-See [Arduino.ino](Arduino.cpp) file for Arduino code.
+
+**[ Arduino code ]**
+
+See [Arduino.ino](Arduino.cpp) file for microcontroller source code.
 
 **[ Circuit diagram ]**
 
