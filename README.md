@@ -11,7 +11,7 @@ Specify your serial port when launching program:
     <li> Linux default: <b>/dev/ttyS7</b> </li>
 </ul>
 
-Connect a 5V voltmeter to Arduino between **Pin9** and **GND**.
+Connect a 5V analog voltmeter to Arduino between **Pin9** and **GND**.
 
 **[ Arduino code ]**
 
