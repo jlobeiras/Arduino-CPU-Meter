@@ -26,4 +26,6 @@ You can open the device manager to check if your Arduino is properly detected as
 
 **[ Demo video ]**
 
+Video showing the project and explaining its construction (in galician language):
+
 https://www.youtube.com/watch?v=GLaPm2tEDzk
